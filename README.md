@@ -13,7 +13,7 @@ we go to Digital Ocean and create a Droplet:
 <img width="1011" alt="Screenshot 2024-02-28 at 02 28 05" src="https://github.com/redjules/Deploy-Nodejs-app/assets/106017493/96248502-ca45-425b-a5b0-336e59beeedf">
 
 
-we write the deplo-node.yaml playbook:
+we write the deploy-node.yaml playbook:
 
 ![Screenshot 2024-02-28 at 09 37 24](https://github.com/redjules/Deploy-Nodejs-app/assets/106017493/e21a4a88-7642-4428-bff4-0f402b6ecc31)
 
