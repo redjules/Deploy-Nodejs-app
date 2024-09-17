@@ -48,7 +48,8 @@ and we enable become user:
 
 we execute the playbook:
 
-![Screenshot 2024-02-28 at 10 41 31](https://github.com/redjules/Deploy-Nodejs-app/assets/106017493/e64b56ee-32fe-47c5-8f65-7e85d94297d1)
+![Screenshot 2024-09-17 at 22 57 48](https://github.com/user-attachments/assets/ed194ee8-ebfa-4588-8c24-8fda73460d6c)
+
 
 the node server is running on the new user:
 
